@@ -2,6 +2,8 @@
 
 ## Доклады о Spring Framework, которые стоит посмотреть
 
+Микросервисы со Spring Boot & Spring Cloud (Александр Бармин)https://www.youtube.com/watch?v=2yAbbsuNBPc
+
 * [Евгений Борисов. Spring The Reaper Часть 1](https://youtu.be/BmBr5diz8WA)
 * [Евгений Борисов. Spring The Reaper Часть 2](https://youtu.be/cou_qomYLNU)
 * [Евгений Борисов. Spring The Reaper](https://youtu.be/hDpa6m48eC4)
